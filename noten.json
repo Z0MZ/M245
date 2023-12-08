@@ -1,0 +1,18 @@
+{
+    "schulfächer": [
+        {
+            "fach": "Mathematik",
+            "note": 4.7,
+            "gewichtung": 1,
+            "datum": "11/23/23",
+            "beschreibung": "Mahteprüfung 1"
+        },
+        {
+            "fach": "Deutsch",
+            "note": 3.8,
+            "gewichtung": 0.5,
+            "datum": "8/6/23",
+            "beschreibung": "Mündlichprüfung 1"
+        }
+    ]
+}
